@@ -93,3 +93,17 @@ canvas1.create_window(220,120,window=button3)
 #######################################################################
 root.mainloop()
 ```
+
+## 2. Binary/Base Convertor
+# This code will accept an integer as input which will be subject to the user defined number base.
+# Most beneficial to Binary conversion, that is base 2.
+# For example, to covert 16 into binary, Enter Decimal Integer = 16, Enter Base = 2.
+[![16-base-2.jpg](https://i.postimg.cc/G3sNL3Mx/16-base-2.jpg)](https://postimg.cc/pyRkkvMm)
+
+# To covert 64 into base 4, Enter Decimal Integer = 64, Enter Base = 4
+[![64base4.jpg](https://i.postimg.cc/rFHKSJGk/64base4.jpg)](https://postimg.cc/tYhqbFmS)
+
+
+
+# And to covert 65 into base 4, Enter Decimal Integer = 65, Enter Base = 4
+[![65base4.jpg](https://i.postimg.cc/c1bsjJv7/65base4.jpg)](https://postimg.cc/0r7RKPdr)
