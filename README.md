@@ -132,8 +132,9 @@ print (x, "in base ", b, " is:",''.join(get_bin(x)))
 ```
 
 ## Improvements will be:
-### 1. Develop to accept higher values then 1024, that is increase bit size.
+### 1. Develop to accept higher values than 1024 (2^10), that is increase bit size.
 ### 2. Set up the code in GUI, although currently having problems getting the code to function in tkinter library.
+### Perhaps try to create GUI in PyQT?
 ###    The tkinter code being:
 ```
 #Binary Conversion of x as function in GUI tKinter
